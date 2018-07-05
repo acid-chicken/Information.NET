@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Information.NET</id>
+    <version>0.0.0-alpha</version>
+    <description> A .NET Library for all of "Information Network" services. </description>
+    <authors>acid-chicken</authors>
+    <title>Information.NET</title>
+    <projectUrl>https://github.com/acid-chicken/Information.NET</projectUrl>
+    <licenseUrl>https://github.com/acid-chicken/Information.NET/blob/master/LICENSE</licenseUrl>
+    <copyright>Copyright (c) 2018 Acid Chicken (硫酸鶏)</copyright>
+  </metadata>
+  <files>
+    <file src="..\README.md" target="" />
+  </files>
+</package>
